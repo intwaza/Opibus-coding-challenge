@@ -4,9 +4,9 @@
 
 3 programming coding challenge that is built in python language:
 
-    * The highest average of 2 contiguous elements
-    * Electric bike booking service
-    * Driver control
+    *  The highest average of 2 contiguous elements
+    *  Electric bike booking service
+    *  Driver control
 
 # Requirements
 
@@ -28,12 +28,12 @@
 
     * Run the code on your terminal make sure you are in your folder and write:
 
-        * python3 contiguousHighestAverage.py or /usr/bin/python3.9 /folders where your have cloned the program/contiguousHighestAverage.py 
+      * python3 contiguousHighestAverage.py or /usr/bin/python3.9 /folders where your have cloned the program/contiguousHighestAverage.py 
           example: /usr/bin/python3.9 /home/student/Desktop/Python/CodingChallenge/contiguousHighestAverage.py
 
-        * python3  electricBikeBooking or /usr/bin/python3.9 /folders where your have cloned the program/electricBikeBooking 
+      * python3  electricBikeBooking or /usr/bin/python3.9 /folders where your have cloned the program/electricBikeBooking 
           example: /usr/bin/python3.9 /home/student/Desktop/Python/CodingChallenge/electricBikeBooking.py
         
-        * python3 driveConntol or usr/bin/python3.9 /folders where your have cloned the program/driveContol
+      * python3 driveConntol or usr/bin/python3.9 /folders where your have cloned the program/driveContol
           example: /usr/bin/python3.9 /home/student/Desktop/Python/CodingChallenge/driveControl.py
         
