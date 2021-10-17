@@ -6,9 +6,9 @@ def electric_bike_booking(bookings):
 
     for items in bookings:
         #changing elements in array into a range 
-        x= range(items[0],items[1])
+        itemRange= range(items[0],items[1])
         #creating a list contain all subarrays
-        arr.append(x)
+        arr.append(itemRange)
     #turning subarray into one array
     for subarray in arr:
         for nums in subarray:
