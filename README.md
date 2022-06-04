@@ -1,4 +1,4 @@
-# Opibus-coding-challenge
+# coding-challenge
 
 # Description
 
