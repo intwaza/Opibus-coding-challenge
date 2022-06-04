@@ -15,14 +15,14 @@
 
 # Guidelines on how to run the code:
 
- * Click on green button of code and copy the HTTPS which is https://github.com/intwaza/Opibus-coding-challenge.git
+ * Click on green button of code and copy the HTTPS which is https://github.com/intwaza/coding-challenge.git
 
  * Open Terminal
 
  * Change the current working directory to the location where you want the cloned directory.
 
  * Type git clone, and then paste the URL you copied earlier 
-       $ git clone https://github.com/intwaza/Opibus-coding-challenge.git
+       $ git clone https://github.com/intwaza/coding-challenge.git
 
  * Press Enter to create your local clone.
 
